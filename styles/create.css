@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+body{
+    background: url(./pen.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}   
+.heading h1{
+    color: white;
+    font-family:'Oswald', sans-serif;
+    text-align: center;
+}
+.open input{
+    width: 250px;
+    display:block;
+    padding: 18px;
+    background:#F2F2F2;
+    margin-bottom:20px;
+    outline:none;
+    border:none;
+    font-size:16px;
+    text-align: center;
+    margin-left: 500px;
+    border-radius: 12px;
+}
+.open {
+    margin-top: 90px;
+    margin-left: 315px;
+}
+.login button{
+    width: 250px;
+    display:block;
+    background:#fb5200;
+    padding: 18px;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 12px;
+    margin-left: 832px;
+}
+.login :hover{
+    color: white;
+    background: black;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.heading h1 {
+    margin-top: 100px;
+}

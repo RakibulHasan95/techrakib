@@ -124,6 +124,7 @@ h1,h2,h3,h4,h5,h6{
     color: white;
     text-align: center;
 }
+
 .social img{
     width: 55px;
     margin-left: 27px;
@@ -157,8 +158,16 @@ h1,h2,h3,h4,h5,h6{
     font-size: 18px;   
     color: white;
 }
-
-
-
+.login button {
+    width: 150px;
+    padding: 10px;
+    background: black; 
+    border-radius: 10px; 
+    border: none;   
+}
+.login button a{
+    text-decoration: none;
+    color: white;
+}
 
 
