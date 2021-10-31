@@ -1,17 +1,38 @@
-@media (max-width: 768px){
+@media (max-width: 766px){
 
    .container {
       width: 100%;
       margin: 0px 0px;
     }
    .Dp img {
-      width: 100%;
+      width: 50%;
+      border-radius: 187px;
    } 
    .experiance {
       width: 100%;
    }
    .achivement h1 {
       width: 100%;
+      font-size: 30px;
+      font-weight: 500;
+      text-align: center;
+      line-height: 34px;
+      border: solid black 2px;
+      border-radius: 25px;
+   }
+   .Instname {
+      width: 100%;
+   }
+  
+   .Instname h1 {
+      font-size: 45px;
+   }
+  
+  .experiance h1 {
+      font-size: 40px;
+   }
+   .gallery h1 {
+      font-size: 50px;
    }
    .capture1 {
       text-align: center;
@@ -21,5 +42,29 @@
    }
    .SeeMore button {
       margin: 10px 0px;
+      width: 100%;
    }
+   .topmenu h1 {
+      font-size: 50px;
+      font-weight: 400;
    }
+   .container{
+      width: auto;
+   }
+   .social img{
+      width: 55px;
+      margin-left: 27px;
+      margin-bottom: 0px;
+      border-radius: 60px;
+  }
+   .social h1 {
+      color: white;
+      font-size: 35px;
+      margin-left: 30px;
+      padding-top: 40px;
+      font-weight: 400;
+      text-align: center;
+      padding-bottom: 30px;
+  }
+
+ }
