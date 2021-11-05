@@ -1,9 +1,9 @@
-@media (max-width: 770px){
+@media (max-width: 785px){
 
-   .container {
+   .container{
       width: 100%;
       margin: 0px 0px;
-    }
+   }
    .Dp img {
       width: 50%;
       border-radius: 187px;
@@ -67,34 +67,16 @@
       padding-bottom: 30px;
   }
   .login button {
-      width: 732px;
-      padding: 16px;
-      background: black;
-      border-radius: 23px;
-      border: none;
-  }
+   width: 100%;
+   padding: 11px;
+   background: black;
+   border-radius: 23px;
+   border: none;
+}
   .login button a{
       text-decoration: none;
       color: white;
       font-size: 20px;
   }
-   .heading{
-      width: 100%;
-   }
-   .open input{
-      width: 250px;
-      display:block;
-      padding: 18px;
-      background:#F2F2F2;
-      margin-bottom:20px;
-      outline:none;
-      border:none;
-      font-size:16px;
-      text-align: center;
-      border-radius: 12px;
-   }
-   .open {
-      margin-top: 90px; 
-   }
-  
+    
 }
