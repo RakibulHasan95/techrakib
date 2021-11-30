@@ -1,4 +1,4 @@
-@media (max-width: 1000px){
+@media (max-width: 1350px){
 
    .container{
       width: 100%;
@@ -52,10 +52,10 @@
       width: auto;
    }
    .social img{
-      width: 55px;
+      width: 12%;
       margin-left: 27px;
       margin-bottom: 0px;
-      border-radius: 60px;
+      border-radius: 7px;
   }
    .social h1 {
       color: white;
@@ -66,12 +66,12 @@
       text-align: center;
       padding-bottom: 30px;
   }
-  .login button {
-   width: 100%;
-   padding: 11px;
-   background: black;
-   border-radius: 23px;
-   border: none;
+   .login button {
+      width: 100%;
+      padding: 11px;
+      background: black;
+      border-radius: 23px;
+      border: none;
 }
   .login button a{
       text-decoration: none;
