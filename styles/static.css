@@ -8,6 +8,17 @@ h1,h2,h3,h4,h5,h6{
     width: 100%;
     margin: 10px 0px;
 }
+
+.profile{
+    text-align: center;
+    margin-top: 200px;
+    background: #0aff88;
+    border-radius: 50px;
+}
+.profile img{
+    width: 230px;
+    border-radius: 150px;
+}
 .topmenu h1,h2 {
     background: rgba(255, 255, 255, 0.691);
     overflow: hidden;
@@ -89,7 +100,7 @@ h1,h2,h3,h4,h5,h6{
     font-size: 18px;
 }
 .SeeMore button{
-    width: 140px;
+    width: 150px;
     padding: 12px 1px;
     background: black;
     border-radius: 25px;
@@ -101,7 +112,7 @@ h1,h2,h3,h4,h5,h6{
     transition: 0.2s;
 }
 .capture1 img{
-    width: 463px;
+    width: 480px;
     border-radius: 15px;
 }
 #contact{
@@ -150,13 +161,13 @@ h1,h2,h3,h4,h5,h6{
     text-align: center;
 
 }
-.login button { 
-    width: 134px;
-    padding: 8px;
+.login button {
+    width: 150px;
+    padding: 10px;
     background: black;
     border-radius: 33px;
     border: none;
-    font-size: 22px;
+    font-size: 21px;
 }
 .login button a{
     text-decoration: none;
@@ -216,8 +227,4 @@ h1,h2,h3,h4,h5,h6{
     transition: 0.5s;
     border: solid black 1px;
     cursor: pointer;
-}
-.profile img {
-    width: 200px;
-    border-radius: 218px;
 }

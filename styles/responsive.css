@@ -1,0 +1,153 @@
+@media (min-width: 320px) and (max-width: 765px){
+
+   .container{
+      width: 100%;
+   }
+   .profile{
+     text-align: center;
+   } 
+   .achivement h1 {
+      width: 100%;
+      font-size: 30px;
+      font-weight: 500;
+      text-align: center;
+      line-height: 34px;
+      border: solid black 2px;
+      border-radius: 25px;
+   }
+   .Instname{
+       width: 920px;
+       word-spacing: 0px;
+       line-height: 22px;
+       float: left;
+   }
+   .Instname h1 {
+       font-weight: 400;
+       font-size: 49px;
+       text-align: center;
+   }
+   
+   .experiance h1 {
+      font-size: 45px;
+   }
+   .gallery h1 {
+      font-size: 50px;
+   }
+   .capture1 {
+      text-align: center;
+   }
+   .capture1 img {
+      width: 100%;
+   }
+  
+   .topmenu h1 {
+      font-size: 50px;
+      font-weight: 400;
+   }
+   
+   .social img{
+      width: 12%;
+      margin-left: 27px;
+      margin-bottom: 0px;
+      border-radius: 7px;
+   }
+   .social h1 {
+      color: white;
+      font-size: 35px;
+      margin-left: 30px;
+      padding-top: 40px;
+      font-weight: 400;
+      text-align: center;
+      padding-bottom: 30px;
+   }
+
+   .socialSite button {
+      border: none;
+      background-color: black;
+      color: white;
+      font-size: 24px;
+      border-radius: 10px;
+      float: left;
+      margin: 8px 0px;
+      width: 100%;
+   }
+   .socialSite2 button {
+      border: none;
+      background-color: black;
+      color: white;
+      font-size: 24px;
+      border-radius: 10px;
+      float: left;
+      margin: 8px 0px;
+      width: 100%;
+   }
+   .socialSite3 button {
+      border: none;
+      background-color: black;
+      color: white;
+      font-size: 24px;
+      border-radius: 10px;
+      float: left;
+      margin: 8px 0px;
+      width: 100%;
+   }
+   .open input{  
+       width: 100%;
+       padding: 20px;
+       margin:auto;
+       margin-top: 15px;
+       font-size: 20px;
+       border-radius: 20px;
+       border: none;
+   }
+   .open {
+      width: 100%;
+      text-align: center;
+   }
+   .login2 {
+       text-align: center;
+       padding: 22px;
+   }
+   .login2 button {
+       padding: 18px;
+       width: 100%;
+       background: black;
+       color: white;
+       font-size: 23px;
+       border: none;
+       border-radius: 40px;
+       cursor: pointer;
+   }
+   .profile img {
+       width: 50%;
+       border-radius: 218px;
+   }
+   }
+   @media (min-width: 320px) and (max-width: 996px){
+
+      .SeeMore button {
+         margin: 10px 0px;
+         width: 62%;
+         font-size: 35px;
+      }
+      .SeeMore a {
+         text-decoration: none;
+         color: white;
+         font-size: 45px;
+     }
+      .login button {
+         width: 62%;
+         padding: 6px;
+         background: black;
+         border-radius: 33px;
+         border: none;
+         font-size: 35px;
+     }
+     .login button a {
+      text-decoration: none;
+      color: white;
+      font-size: 50px;
+     }
+
+
+   }
