@@ -131,7 +131,7 @@ h1,h2,h3,h4,h5,h6{
     text-align: center;
     font-size: 47px;
     font-weight: 600;
-    margin-top: 100px;
+    margin-top: 25px;
 }
 .topmenu button{
     width: 100px;
@@ -216,4 +216,8 @@ h1,h2,h3,h4,h5,h6{
     transition: 0.5s;
     border: solid black 1px;
     cursor: pointer;
+}
+.profile img {
+    width: 200px;
+    border-radius: 218px;
 }
